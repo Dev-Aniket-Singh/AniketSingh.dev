@@ -76,3 +76,15 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/Dev-Aniket-Singh">Dev-Aniket-Singh</a></i></p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Dev-Aniket-Singh/AniketSingh.dev/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Dev-Aniket-Singh/AniketSingh.dev/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
