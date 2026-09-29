@@ -83,6 +83,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Aniket-Singh/AniketSingh.dev/tree/master/0001-two-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev-Aniket-Singh/AniketSingh.dev/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,4 +110,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dev-Aniket-Singh/AniketSingh.dev/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev-Aniket-Singh/AniketSingh.dev/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev-Aniket-Singh/AniketSingh.dev/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dev-Aniket-Singh/AniketSingh.dev/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
